@@ -1,0 +1,184 @@
+{"questions": [
+        {"tag": "greeting",
+         "queries": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
+         "responses": ["Hi there, Welcome to bike service shop. how can I help?"]
+        },
+        {"tag": "goodbye",
+         "queries": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+         "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."]
+        },
+        {"tag": "thanks",
+         "queries": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+         "responses": ["Happy to help!", "Any time!", "My pleasure"]
+        },
+        {"tag": "noanswer",
+         "queries": [],
+         "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"]
+        },
+        {"tag": "cost",
+         "queries": ["How much does a standard bike tune-up cost?", "How much do you charge for standard bike tune-up"],
+         "responses": ["A standard bike tune-up typically starts at $50, but the final cost can vary depending on the specific services your bike needs."]
+        },
+        {"tag": "online_appointment",
+             "queries": ["Can I schedule a bike service appointment online?", "Do you offer online appointment for bike service?", "Can I book an online appointment?" ],
+         "responses": ["Yes, you can easily schedule a bike service appointment online through our website."]
+        },
+        {"tag": "basic_tune-up_services",
+         "queries": ["What services are included in a basic bike tune-up?", "What services are included in a basic bike tuning?"],
+         "responses": ["A basic bike tune-up usually includes a safety check, chain lubrication, brake adjustment, and tire inflation."]
+        },
+       {"tag": "Suggestion_for_bike_service",
+         "queries": ["How often should I get my bike serviced?"],
+         "responses": ["We recommend getting your bike serviced at least once a year for regular maintenance. However, it may need more frequent service depending on your usage."]
+        },
+    {"tag": "bike_pickup_and_delivery",
+         "queries": [" Do you provide bike pickup and delivery service?"],
+         "responses": ["Yes, we offer pickup and delivery services for bike repairs. Please contact us to schedule this service."]
+        },
+        {"tag": "discount",
+         "queries": ["Can I get a discount for multiple bike services?", "Do you offer discount for more than one bikes?", "Do you offer discount for multiple bikes?"],
+         "responses": ["We offer discounts for multiple bike services. Feel free to ask about our current promotions."]
+        },
+        {"tag": "flat_tire_problem",
+         "queries": ["What should I do if my bike has a flat tire?"],
+         "responses": ["If you have a flat tire, you can bring your bike in for a quick tire repair or replacement."]
+        },
+        {"tag": "refund_policy",
+         "queries": ["Do you refund payment if I cancel the appointment?", "Can I get my payment back if I cancel the appointment?"],
+         "responses": ["Yes, we refund payment if appointment is cancelled"]
+        },
+         {"tag": "satisfaction",
+         "queries": ["What if the repairing work is not satisfactory?", "Do you take responsibilty if the repair work is not good or satisfactory?"],
+         "responses": ["We will again check your bike and will fix the issues free of charges if the repairing is not done well."]
+        },
+         {"tag": "tuning_time",
+         "queries": ["How long does a bike tune-up usually take?", "How much time bike tune-up may take?"],
+         "responses": ["A standard bike tune-up typically takes 1 to 2 business days, but the time may vary based on the services required."]
+        },
+          {"tag": "accessories_and_parts",
+          "queries":["Do you sell bike accessories and parts?"],
+          "responses":["Yes, we have a wide range of bike accessories and parts available for purchase in our shop."]
+        },
+        {"tag": "cancel_or_reschedule_appointment",
+         "queries": ["Can I cancel or reschedule my bike service appointment?"],
+         "responses": ["es, you can cancel or reschedule your appointment by contacting us at least 24 hours in advance."]
+        },
+        {"tag": "Types_of_bike_brands",
+         "queries": ["What types of bike brands do you service?"],
+         "responses": ["We provide service for a variety of bike brands, including major brands and boutique manufacturers."]
+        },
+        {"tag": "warranty",
+         "queries": ["Do you offer warranties on your bike repairs?"],
+         "responses": ["Yes, we offer warranties on our bike repairs. The duration of the warranty may vary depending on the service performed."]
+        },
+       {"tag": "appointment_availability",
+         "queries": ["How can I check the availability for a bike service appointment?", "How to know if appointment is available or not?"],
+         "responses": ["You can check appointment availability on our website or by giving us a call during business hours."]
+        },
+     {"tag": "turnaround_time",
+         "queries": [" What is the turnaround time for a bike repair?"],
+         "responses": ["The turnaround time for a bike repair depends on the complexity of the repair. We'll provide you with an estimate when you drop off your bike."]
+        },
+     {"tag": "custom_bike_building_services",
+         "queries": ["Can I get a custom bike built at your shop?"],
+         "responses": ["Yes, we offer custom bike building services. Contact us to discuss your requirements."]
+        },
+        {"tag": "bike_maintenance_workshops",
+         "queries": ["Do you provide bike maintenance tips or workshops?"],
+         "responses": ["Yes, we offer bike maintenance workshops and can provide you with tips to keep your bike in great condition."]
+        },
+        {"tag": "loaner_bike",
+         "queries": ["Is it possible to get a loaner bike while mine is being serviced?", "Can I get a bike on loan if my bike is being serviced?"],
+         "responses": ["We do offer loaner bikes, but availability may be limited. Please inquire when scheduling your appointment."]
+        },
+        {"tag": "estimate_for_bike_repair",
+         "queries": ["Can you provide an estimate for my bike repair before I bring it in?", "Do you provide an estimate before bringing bike for repair?"],
+         "responses": ["Yes, we can provide a rough estimate over the phone, but a more accurate estimate will be given after our technicians inspect your bike."]
+        },
+         {"tag": "working_hours",
+         "queries": ["What are your operating hours?", "What are your working hours?"],
+         "responses": ["Our operating hours are 08:00 AM to 10:00 PM. Please note that these hours may vary on holidays and special occasions."]
+          },
+        {"tag": "maintenance_services",
+         "queries": ["What types of bike maintenance services do you offer?", "what type of bike repair services do you offer?"],
+         "responses": ["We offer a wide range of bike maintenance services, including tune-ups, tire repairs, brake adjustments, gear tuning, and more."]
+        },
+    {"tag": "track_repair_progress",
+         "queries": ["Can I track the progress of my bike repair online?"],
+         "responses": ["Yes, you can track the status of your bike repair on our website by entering your service order number."]
+        },
+    
+    {"tag": "electric_bikes_services",
+         "queries": ["Do you provide services for electric bikes (e-bikes)?", "do you offer services for electric bikes?"],
+         "responses": ["Yes, we have expertise in servicing electric bikes, including battery diagnostics and motor maintenance."]
+        },
+         {"tag": "bike_inspection",
+         "queries": ["What is included in a comprehensive bike inspection?"],
+         "responses": ["A comprehensive bike inspection includes a thorough check of all components, ensuring your bike is in optimal condition."]
+        },
+    {"tag": "contact_us",
+         "queries": [" How can I contact your bike service shop for inquiries?", "How can I contact for bike service?", "How to contact you?"],
+         "responses": ["You can reach us by phone at [1234567] or send us an email at [bike_service@gmail.com]."]
+        },
+         {"tag": "same-day_appointments",
+         "queries": ["Can I book a same-day bike service appointment?"],
+         "responses": ["Same-day appointments are subject to availability. Please contact us to check if we have an opening."]
+        },
+    {"tag": "discounts_for_students_or_seniors",
+         "queries": ["Do you offer discounts for students or seniors?"],
+         "responses": ["Yes, we offer discounts for students and seniors. Please bring valid identification to avail of these discounts."]
+        },
+    {"tag": "recommended_maintenance_schedule",
+         "queries": ["What is the recommended maintenance schedule for a mountain bike?", "How often should I schedule maintenance for the bike?"],
+         "responses": ["The recommended maintenance schedule for a mountain bike varies based on usage. We suggest regular check-ups every 3 to 6 months."]
+        },
+    {"tag": "gift_cards",
+         "queries": ["Can I purchase gift cards for bike services?"],
+         "responses": ["Yes, we offer gift cards that can be used for bike services. They make great gifts for fellow cyclists."]
+        },
+    {"tag": "emergency_repairs",
+         "queries": ["Do you provide emergency bike repairs?", "Do you provide emergency services?"],
+         "responses": ["In case of emergency, we do our best to accommodate urgent bike repairs. Call us for assistance."]
+        },
+        {"tag": "upgrade_bike_components",
+         "queries": ["Can I upgrade specific bike components during a tune-up?"],
+         "responses": ["Yes, you can discuss component upgrades with our technicians during your bike tune-up appointment."]
+        },
+    {"tag": "certified_mechanics",
+         "queries": ["Are your bike mechanics certified and experienced?"],
+         "responses": ["Yes, our bike mechanics are certified and have extensive experience in bike servicing."]
+        },
+        {"tag": "rental_bikes_for_tourists_or_visitors",
+         "queries": ["Do you offer bike rentals for tourists or visitors?"],
+         "responses": ["We do offer bike rentals for tourists. Explore our rental options on our website."]
+        },
+         {"tag": "forms_of_payment",
+         "queries": ["What forms of payment do you accept for bike services?"],
+         "responses": ["We accept cash, credit cards, and mobile payment methods for bike services."]
+        },
+    {"tag":"bike_lock",
+     "queries":["Can you recommend a bike lock for security?"],
+     "responses":["We recommend high-quality bike locks to ensure the security of your bike. Ask us for product recommendations."]
+    },
+      {"tag": "winterizing_services",
+         "queries": ["Do you provide winterizing services for bikes?"],
+         "responses": ["Yes, we offer winterizing services to protect your bike during the colder months."]
+        },
+      {"tag": "bike-related_problem_on_road",
+         "queries": ["What should I do if I encounter a bike-related problem while on the road?"],
+         "responses": ["In case of a bike breakdown, contact us for guidance, and we'll do our best to assist you."]
+        },
+      {"tag": "service_package_for_entire_bike_fleet",
+         "queries": ["Can I get a service package for my entire bike fleet?"],
+         "responses": ["Yes, we offer service packages for businesses and organizations with multiple bikes. Contact us to discuss your needs."]
+        },
+         {"tag": "sell_refurbished_bikes",
+         "queries": ["Do you sell refurbished bikes or used bike parts?"],
+         "responses": ["We occasionally have refurbished bikes and used bike parts available for sale. Check our shop for current inventory."]
+        },
+    {"tag":"storing_bike_for_long_period_of_non-use",
+        "queries":["How do I properly store my bike during long periods of non-use?"],
+        "responses":["Properly store your bike by cleaning it, lubricating the chain, and storing it indoors to protect it from the elements."]
+    }
+   ]
+}
